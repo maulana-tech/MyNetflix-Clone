@@ -13,7 +13,7 @@ body,
         }
 
         .content::before {
-            background-image: url(/foto/awal.jpg);
+            background-image: url(/img/bg-cantik.png);
             content: "";
             opacity: 0.5;
             position: fixed;
